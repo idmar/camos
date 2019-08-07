@@ -1,14 +1,14 @@
 ;----------// Theme Information
 
-  name        = College
+  name        = CAMLab
   description = A college inspired theme for use by departments at Harvard.
-  module      = hwpi_vibrant
+  module      = hwpi_basetheme
   core        = 7.x
-  base theme  = hwpi_vibrant
+  base theme  = hwpi_basetheme
   release     = 7.x-3.x
   engine      = phptemplate
   screenshot  = screenshot.png
-  flavor_name = "College"
+  flavor_name = "adams"
   plugins[os][flavor] = flavors
 
 ;----------// OpenScholar
@@ -21,7 +21,7 @@
 
 ;----------// Stylesheets
 
-  stylesheets[screen][] = css/hwpi_college.css
+  stylesheets[screen][] = css/hwpi_CAMLab.css
 
 
 
