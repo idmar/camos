@@ -2,7 +2,7 @@
 
   name        = CAMLab
   description = A college inspired theme for use by departments at Harvard.
-  module      = hwpi_basetheme
+  module      = hwpi_college
   core        = 7.x
   base theme  = hwpi_basetheme
   release     = 7.x-3.x
