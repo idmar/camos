@@ -8,7 +8,7 @@
   release     = 7.x-3.x
   engine      = phptemplate
   screenshot  = screenshot.png
-  flavor_name = "CAMLab"
+  flavor_name = "Conservative"
   plugins[os][flavor] = flavors
 
   
